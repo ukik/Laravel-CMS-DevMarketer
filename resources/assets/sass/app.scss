@@ -6,4 +6,12 @@
 @import "variables";
 
 // Bootstrap
-@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+// @import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Bulma (wajib di atas) 
+// Buefy
+@import "node_modules/bulma/bulma.sass";
+@import "node_modules/buefy/src/scss/buefy.scss";
+
+// Font-Awesome
+@import "node_modules/font-awesome/scss/font-awesome.scss";
